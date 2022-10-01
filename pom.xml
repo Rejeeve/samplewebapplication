@@ -95,7 +95,7 @@
 	
 	<distributionManagement>
 	    <repository>
-	      <id>nexus</id>
+	      <id>nexuss</id>
 	      <name>Acada Learning Releases Nexus Repository</name>
 	      <url>http://54.173.129.188:8081/repository/release_repo_one/</url>
 	    </repository>
